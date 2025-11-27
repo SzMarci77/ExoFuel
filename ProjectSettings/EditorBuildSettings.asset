@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 0c3e51be2d9f89540a0c595d2ebbc13b
+  - enabled: 1
+    path: Assets/Scenes/ACTI.unity
+    guid: fa5224c0045b09f42a6c4130dc608e64
+  - enabled: 1
+    path: Assets/Scenes/Mission1-easy.unity
+    guid: 2464608c3ada7a9458c305990cb9cbaf
+  - enabled: 1
+    path: Assets/Scenes/Mission2-easy-meteorshower.unity
+    guid: b035606be6995434dac30479783da721
+  - enabled: 1
+    path: Assets/Scenes/Mission3-easy-boss.unity
+    guid: 5c311d039e5aee840b30a0d08bf47df9
+  - enabled: 1
+    path: Assets/Scenes/ACTII.unity
+    guid: 3e978d9a4e2fe89439d25b8d6c7b661f
+  - enabled: 1
+    path: Assets/Scenes/Mission4-medium.unity
+    guid: 1128a6401344ad848a59428f2bcefbaa
+  - enabled: 1
+    path: Assets/Scenes/Mission5-medium-meteorshower.unity
+    guid: 84fc98b58a61aa340b33d736bf9b4303
+  - enabled: 1
+    path: Assets/Scenes/Mission6-medium-boss.unity
+    guid: 4507119d73277f044a1e6dec6fb47f15
+  - enabled: 1
+    path: Assets/Scenes/Mission7-hard.unity
+    guid: 3bea179ac279cf643915ae56a42b52df
+  - enabled: 1
+    path: Assets/Scenes/Mission8-hard.unity
+    guid: dc514345426cf384988f0f74a2f4030b
+  - enabled: 1
+    path: Assets/Scenes/ACTIII.unity
+    guid: e19f3380f105d6b419ad5282cecf0360
+  - enabled: 1
+    path: Assets/Scenes/Mission9-hard-boss.unity
+    guid: b3e73f6ae7ea1f049bee8b01d48df889
+  - enabled: 1
+    path: Assets/Scenes/EP.unity
+    guid: 8a4b2239bd78b4c43b314a3446d5deec
+  m_configObjects: {}
